@@ -1,4 +1,4 @@
-fastapi==0.115.6
+fastapi==0.100.0
 fastjsonschema==2.21.1
 jax==0.4.10
 jedi==0.18.2
