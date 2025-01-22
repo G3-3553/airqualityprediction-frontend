@@ -1,2 +1,2 @@
-web: python -c "import fast; print('FastAPI app imported successfully')"
+web: gunicorn fast:app
 
